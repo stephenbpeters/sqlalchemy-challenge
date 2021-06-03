@@ -97,10 +97,10 @@ def home():
       f"<br> -- Date format needs to be YYYY-MM-DD."     
        
       f"<li>/human-readable/&ltstart date&gt"
-      f"<br> -- same thing as above, only better formatted for reading"
+      f"<br> -- same thing as above, only  formatted for reading by humans"
       
       f"<li>/human-readable/&ltstart date&gt/&ltend date&gt"
-      f"<br> -- same thing as above, only better formatted for reading"      
+      f"<br> -- same thing as above, only formatted for reading by humans"      
       f"</ol>"
       f"</blockquote>"
     )
